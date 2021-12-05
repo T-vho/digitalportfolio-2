@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@1,700&family=Overlock:wght@700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -16,7 +15,7 @@ body{
     overflow: hidden;
     position: relative;
     background: #fff1c5;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Patrick Hand', cursive;
 }
 
 .navbar{
